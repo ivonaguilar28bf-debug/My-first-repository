@@ -1,3 +1,2 @@
 # My-first-repository
-Voy a explorar este nuevo proyecto y descubrir más de las herramientas que podría usar
-:wave: Hello!
+Voy a explorar este nuevo proyecto y descubrir más de las herramientas que podría usar :rocket: Let's get started!
